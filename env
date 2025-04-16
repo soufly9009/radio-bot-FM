@@ -1,0 +1,5 @@
+DISCORD_TOKEN=
+GUILD_ID=  # Remplace avec l'ID de ton serveur
+VOICE_CHANNEL_ID=  # Remplace avec l'ID du salon vocal
+RADIO_URL=http://streaming.radio.funradio.fr:80/fun-1-44-128  # Remplace par l'URL de ta radio
+
