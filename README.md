@@ -1,2 +1,2 @@
 # radio-bot-FM
-Radio Fm est un bot discord en node js v14
+Radio Fm est un bot discord en python
